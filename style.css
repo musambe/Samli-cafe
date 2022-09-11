@@ -1,0 +1,22 @@
+h2
+{
+    color:#00d933;
+        font-family: Verdana;
+}
+p
+{
+    color:#c700d9;
+        font-family: Verdana;
+}
+
+.btn
+{
+    background-color: #BD094C;
+    border: none;
+    padding: 10px;
+    color: #ffffff;
+}
+.btn:hover
+{
+background-color: #000000;
+}
